@@ -42,3 +42,5 @@
 7) Open the terminal (Utilities -> Terminal) and type `cd /Volumes/[your ExFAT volume name]` (in our case Installer)
 8) Type `./UnPlugged.command`
 9) Type 1 to choose the `Fully expand InstallAssistant.pkg` option
+10) Choose the MacOS drive as the target one
+11) Wait for it to finish 
