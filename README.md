@@ -35,4 +35,8 @@
    - A 500mb (or more) one formatted in Fat32 called Opencore
    - The rest of the drive formatted in exFat, call it Installer
 3) [Download the UnPlugged script](https://github.com/corpnewt/UnPlugged/blob/main/UnPlugged.command) and place it into the Installer partition, along with the installassistant.pkg file.
+4) [Download Monterey using macrecovery](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/windows-install.html#downloading-macos) and put it into the Opencore partition (com.apple.recovery.boot foler), along with the [Monterey EFI](https://example.com)
 
+
+> [!NOTE]  
+> Monterey is only used to install Tahoe, do not go forward with the Montrey installation
