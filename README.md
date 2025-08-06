@@ -3,7 +3,14 @@
 <img width="627" height="442" alt="1000019702" src="https://github.com/user-attachments/assets/5de92574-1d08-4250-b941-0c48c6f81ce4" />
 
 
-⚠️ This is a work in progress and is not ready ⚠️
+
+> [!WARNING]  
+> This repo is still a work in progress and is not ready.
+
+
+
+> [!CAUTION]
+> MacOS Tahoe is still in the beta stage and is not stable
 
 # Bios settings
 
