@@ -30,7 +30,7 @@
 
 **NOTE:** This tutorial should **ONLY** be used for the Tahoe developer beta, the tutorial will be updated when the stable version comes out.
 1) Create an exFat partition called MacOS where we'll install the OS. (Call it MacOS)
-2) [Download the Tahoe beta installassistant.pkg from Apple](https://swcdn.apple.com/content/downloads/05/26/082-89906-A_7DP8EBEVZJ/g3p7sya93v36h1ri0h940xxuxutt23igcw/InstallAssistant.pkg)
+2) [Download the Tahoe beta installassistant.pkg from Apple](https://swcdn.apple.com/content/downloads/05/26/082-89906-A_7DP8EBEVZJ/g3p7sya93v36h1ri0h940xxuxutt23igcw/InstallAssistant.pkg) or GibMacOS
 3) Partiton a 16gb+ usb drive in 2 partitions:
    - A 500mb (or more) one formatted in Fat32 called Opencore
    - The rest of the drive formatted in exFat, call it Installer
