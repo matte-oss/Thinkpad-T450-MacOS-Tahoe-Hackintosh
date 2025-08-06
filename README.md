@@ -49,3 +49,8 @@
 12) Go ahead with the Tahoe installation and choose the MacOS Drive
 13) Boot back into a working OS (Linux/Windows) and mount the MacOS efi (on Windows you need to use [WinEFIMounter](https://github.com/franzageek/WinEFIMounter) )
 14) Copy the Tahoe EFI in the MacOS EFI and boot
+
+# Post-install
+
+Once booted into MacOS you'll notice the GPU acceleration is not working.
+Opencore legacy Patcher does NOT yet support Tahoe, so we'll be using an **unofficial** fork called [oclp-mod](https://github.com/laobamac/OCLP-Mod)
