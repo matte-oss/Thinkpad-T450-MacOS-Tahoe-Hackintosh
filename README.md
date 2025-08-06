@@ -39,3 +39,4 @@
 > [!NOTE]  
 > Monterey is only used to install Tahoe, do not go forward with the Montrey installation
 6) Boot in the Monterey recovery and format the exFat partition we previously created in APFS from Disk Utility 
+7) Open the terminal (Utilities -> Terminal) and type `cd /Volumes/[your ExFAT volume name]` (in our case Installer)
