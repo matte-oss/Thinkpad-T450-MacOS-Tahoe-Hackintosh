@@ -43,4 +43,5 @@
 8) Type `./UnPlugged.command`
 9) Type 1 to choose the `Fully expand InstallAssistant.pkg` option
 10) Choose the MacOS drive as the target one
-11) Wait for it to finish 
+11) Wait for it to finish and dont close the terminal
+12) Go ahead with the Tahoe installation and choose the MacOS Drive
