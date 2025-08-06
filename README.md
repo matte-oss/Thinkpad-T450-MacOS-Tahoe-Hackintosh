@@ -54,3 +54,7 @@
 
 Once booted into MacOS you'll notice the GPU acceleration is not working.
 Opencore legacy Patcher does NOT yet support Tahoe, so we'll be using an **unofficial** fork called [oclp-mod](https://github.com/laobamac/OCLP-Mod)
+
+
+> [!CAUTION]
+> This method is not officialy supported by the Opencore Legacy Patcher team and may break your system.
