@@ -23,3 +23,4 @@
 
 **NOTE:** This tutorial should **ONLY** be used for the Tahoe developer beta, the tutorial will be updated when the stable version comes out.
 
+1) Download the Tahoe installassistant.pkg from Apple: https://swcdn.apple.com/content/downloads/05/26/082-89906-A_7DP8EBEVZJ/g3p7sya93v36h1ri0h940xxuxutt23igcw/InstallAssistant.pkg
