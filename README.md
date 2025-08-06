@@ -36,7 +36,7 @@
    - A 500mb (or more) one formatted in Fat32 called Opencore
    - The rest of the drive formatted in exFat, call it Installer
 5) [Download the UnPlugged script](https://github.com/corpnewt/UnPlugged/blob/main/UnPlugged.command) and place it into the Installer partition, along with the installassistant.pkg file.
-6) [Download Monterey using macrecovery](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/windows-install.html#downloading-macos) and put it into the Opencore partition (com.apple.recovery.boot foler), along with the [Monterey EFI](https://example.com)
+6) [Download Monterey using macrecovery](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/windows-install.html#downloading-macos) and put it into the Opencore partition (com.apple.recovery.boot foler), along with the Monterey EFI from this repo
 > [!NOTE]  
 > Monterey is only used to install Tahoe, do not go forward with the Montrey installation
 6) Boot in the Monterey recovery and format the exFat partition we previously created in APFS from Disk Utility 
@@ -47,4 +47,4 @@
 11) Wait for it to finish and dont close the terminal
 12) Go ahead with the Tahoe installation and choose the MacOS Drive
 13) Boot back into a working OS (Linux/Windows) and mount the MacOS efi (on Windows you need to use [WinEFIMounter](https://github.com/franzageek/WinEFIMounter) )
-14) Copy [the Tahoe EFI](example.com) in the MacOS EFI and boot
+14) Copy the Tahoe EFI in the MacOS EFI and boot
