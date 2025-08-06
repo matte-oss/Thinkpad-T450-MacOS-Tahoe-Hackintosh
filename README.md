@@ -65,4 +65,4 @@ Opencore legacy Patcher does NOT yet support Tahoe, so we'll be using an **unoff
 > [!CAUTION]
 > This method is not officialy supported by the Opencore Legacy Patcher team and may break your system.
 > 
-1) https://github.com/laobamac/OCLP-Mod/releases/download/push-0605e43c8e50be012ef0bf322b1f28b26bae39b5/OCLP-Mod.pkg
+1) [Download the oclp-mod Tahoe pre-relase](https://github.com/laobamac/OCLP-Mod/releases/download/push-0605e43c8e50be012ef0bf322b1f28b26bae39b5/OCLP-Mod.pkg)
