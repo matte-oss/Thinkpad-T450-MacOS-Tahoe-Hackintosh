@@ -13,6 +13,12 @@
 > [!CAUTION]
 > MacOS Tahoe is still in the beta stage and is not stable
 
+
+> [!IMPORTANT]
+> 
+>Your warranty is now void. 
+I am not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed. YOU are choosing to make these modifications, and if you point the finger at me for messing up your device, I will laugh at you.
+
 # Bios settings
 
 - `Security -> Security Chip`: **Disabled**;
@@ -53,8 +59,10 @@
 # Post-install
 
 Once booted into MacOS you'll notice the GPU acceleration is not working.
-Opencore legacy Patcher does NOT yet support Tahoe, so we'll be using an **unofficial** fork called [oclp-mod](https://github.com/laobamac/OCLP-Mod)
+Opencore legacy Patcher does NOT yet support Tahoe, so we'll be using an **unofficial** fork called [oclp-mod](https://github.com/laobamac/OCLP-Mod):
 
 
 > [!CAUTION]
 > This method is not officialy supported by the Opencore Legacy Patcher team and may break your system.
+> 
+1) https://github.com/laobamac/OCLP-Mod/releases/download/push-0605e43c8e50be012ef0bf322b1f28b26bae39b5/OCLP-Mod.pkg
