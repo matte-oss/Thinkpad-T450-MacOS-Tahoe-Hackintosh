@@ -24,7 +24,7 @@
 - `Secure Boot -> Secure Boot`: **Disabled**;
 - `UEFI/Legacy Boot`: **UEFI Only**;
 - `Fingerprint Sensor`: **Disabled** `(Causes issues with wake from sleep)`;
-- `CSM Support`: **Yes**.
+- `CSM Support`: **Yes**;
 - `Intel (R) Rapid Start Technology`: **Disabled**.
 
 # Tutorial
