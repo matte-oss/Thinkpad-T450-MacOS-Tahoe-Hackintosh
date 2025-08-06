@@ -6,6 +6,7 @@
 
 > [!WARNING]  
 > This repo is still a work in progress and is not ready.
+> The EFI is not yet relased
 
 
 
@@ -45,3 +46,5 @@
 10) Choose the MacOS drive as the target one
 11) Wait for it to finish and dont close the terminal
 12) Go ahead with the Tahoe installation and choose the MacOS Drive
+13) Boot back into a working OS (Linux/Windows) and mount the MacOS efi (on Windows you need to use [WinEFIMounter](https://github.com/franzageek/WinEFIMounter) )
+14) Copy [the Tahoe EFI](example.com) in the MacOS EFI and boot
