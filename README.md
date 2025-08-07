@@ -35,7 +35,7 @@ I am not responsible for bricked devices, dead SD cards, thermonuclear war, or y
 - `UEFI/Legacy Boot`: **UEFI Only**;
 - `Fingerprint Sensor`: **Disabled** `(Causes issues with wake from sleep)`;
 - `CSM Support`: **Yes**;
-- `Intel (R) Rapid Start Technology`: **Disabled**.
+- `Power -> Intel (R) Rapid Start Technology`: **Disabled**.
 
 # Tutorial
 
