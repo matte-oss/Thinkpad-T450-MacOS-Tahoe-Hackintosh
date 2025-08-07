@@ -39,7 +39,9 @@ I am not responsible for bricked devices, dead SD cards, thermonuclear war, or y
 
 # Tutorial
 
-**NOTE:** This tutorial should **ONLY** be used for the Tahoe developer beta, the tutorial will be updated when the stable version comes out.
+> [!CAUTION]
+> You should **only** follow this tutorial if you want to test Tahoe, as the GPU acceleration does not work and Tahoe is in the beta stage.
+When the stable version rolls out, this tutorial will be updated
 
 1) Create an exFat partition called MacOS where we'll install the OS. (Call it MacOS)
 2) Download the Tahoe beta installassistant.pkg using [Gibmacos](https://github.com/corpnewt/gibMacOS) (If you don't see the Tahoe beta change the version to 26)
