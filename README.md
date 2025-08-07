@@ -41,7 +41,8 @@ I am not responsible for bricked devices, dead SD cards, thermonuclear war, or y
 
 > [!CAUTION]
 > You should **only** follow this tutorial if you want to test Tahoe, as the GPU acceleration does not work and Tahoe is in the beta stage.
-When the stable version rolls out, this tutorial will be updated
+When the stable version rolls out, this tutorial will be updated.
+> Until then, please use [Sequoia](https://github.com/CLAY-BIOS/Lenovo-ThinkPad-T450s-Hackintosh-OpenCore/issues/137#issuecomment-2766815876)
 
 1) Create an exFat partition called MacOS where we'll install the OS. (Call it MacOS)
 2) Download the Tahoe beta installassistant.pkg using [Gibmacos](https://github.com/corpnewt/gibMacOS) (If you don't see the Tahoe beta change the version to 26)
