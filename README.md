@@ -57,6 +57,12 @@ I am not responsible for bricked devices, dead SD cards, thermonuclear war, or y
 10) Choose the MacOS drive as the target one
 11) Wait for it to finish and dont close the terminal
 12) Go ahead with the Tahoe installation and choose the MacOS Drive
-13) Boot back into a working OS (Linux/Windows) and mount the MacOS efi (on Windows you need to use [WinEFIMounter](https://github.com/franzageek/WinEFIMounter) )
-14) Copy the Tahoe EFI in the MacOS EFI and boot
+13) At some point the installer will reboot and get stuck on an half loading bar, you can force power off the laptop and swap the EFI on the usb for the Tahoe one.
+14) You can now patiently proceed with the installation.
+15) You can now copy the Tahoe EFI in the MacOS EFI and boot
 
+# Post-install
+
+[Install the latest Heliport version](https://github.com/OpenIntelWireless/HeliPort/releases) to get the WiFi to work.
+
+[GPU patching is estimated to be available around winter 2025.](https://github.com/dortania/OpenCore-Legacy-Patcher/issues/1167)
