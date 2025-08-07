@@ -6,7 +6,8 @@
 
 > [!WARNING]  
 > This repo is still a work in progress and is not ready.
-> The EFI is not yet relased
+> [**THE GPU ACCELERATION IS NOT WORKING YET**](https://github.com/dortania/OpenCore-Legacy-Patcher/issues/1167) this means your computer will have very poor performance.
+
 
 
 
