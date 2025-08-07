@@ -44,7 +44,7 @@ I am not responsible for bricked devices, dead SD cards, thermonuclear war, or y
 When the stable version rolls out, this tutorial will be updated.
 > Until then, please use [Sequoia](https://github.com/CLAY-BIOS/Lenovo-ThinkPad-T450s-Hackintosh-OpenCore/issues/137#issuecomment-2766815876)
 
-1) Create an exFat partition called MacOS where we'll install the OS. (Call it MacOS)
+1) Create an exFat partition called MacOS where we'll install the OS.
 2) Download the Tahoe beta installassistant.pkg using [Gibmacos](https://github.com/corpnewt/gibMacOS) (If you don't see the Tahoe beta change the version to 26)
 4) Partiton a 16gb+ usb drive in 2 partitions:
    - A 500mb (or more) one formatted in Fat32 called Opencore
