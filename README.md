@@ -19,6 +19,9 @@
 >Your warranty is now void. 
 I am not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed. YOU are choosing to make these modifications, and if you point the finger at me for messing up your device, I will laugh at you.
 
+<img width="1600" height="900" alt="Screenshot 2025-08-07 at 04 50 02 11" src="https://github.com/user-attachments/assets/216550fb-e3bf-4ca3-ab45-23a118ee69e4" />
+
+
 # Bios settings
 
 - `Security -> Security Chip`: **Disabled**;
